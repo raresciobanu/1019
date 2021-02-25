@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem1\Sem1\Source.cpp(72,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem1\Sem1\Source.cpp(76,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem1\Sem1\Source.cpp(104,6): warning C4101: 'a': unreferenced local variable
+C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem1\Sem1\Source.cpp(105,9): warning C4101: 'b': unreferenced local variable
+  Sem1.vcxproj -> C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem1\Debug\Sem1.exe
