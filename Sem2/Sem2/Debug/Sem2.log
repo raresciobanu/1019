@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem2\Sem2\Source.cpp(156,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem2\Sem2\Source.cpp(36): warning C4715: 'transformaEnumInSirDeCaractere': not all control paths return a value
-C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem2\Sem2\Source.cpp(63): warning C4715: 'transformaSirDeCaractereInEnum': not all control paths return a value
-  Sem2.vcxproj -> C:\Users\Rares\Desktop\ATP2020-2021\1019\Sem2\Debug\Sem2.exe
